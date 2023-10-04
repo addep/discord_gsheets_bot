@@ -1,0 +1,1 @@
+Credentials from Discord Oauth
